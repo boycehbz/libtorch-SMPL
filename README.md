@@ -18,5 +18,5 @@ Libtorch-SMPL has been implemented and tested on Windows10 with VS2019.
 The code is for non-commercial scientific research purposes only. Any commercial usage should be allowed by original authors.
 
 # References
-SMPL models [SMPL](https://smpl.is.tue.mpg.de/)
-Neutral SMPL model [smplify](http://smplify.is.tue.mpg.de/)
+- SMPL models [SMPL](https://smpl.is.tue.mpg.de/)
+- Neutral SMPL model [smplify](http://smplify.is.tue.mpg.de/)
