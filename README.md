@@ -1,5 +1,5 @@
 # libtorch-SMPL
-C++ libtorch-SMPL
+A C++ Libtorch implementation of SMPL.
 
 # Dependencies
   1. Windows10
