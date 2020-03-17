@@ -11,7 +11,7 @@ A C++ Libtorch implementation of SMPL.
 
 # Running the Demo
 Libtorch-SMPL has been implemented and tested on Windows10 with VS2019.
-  1. Preprocessing the official SMPL models using preprocess/preprocess.py
+  1. Preprocess the official SMPL models using preprocess/preprocess.py
   2. Run libtorch-SMPL/main.cpp
 
 # License
